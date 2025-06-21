@@ -57,7 +57,7 @@
 ### 📫 Connect With Me
 
 - 🔗 [LinkedIn]([https://linkedin.com/in/your-link](https://www.linkedin.com/in/menna-mohamed-0808422ab/overlay/about-this-profile/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BKnTwnpTSQ%2Bqjse53FwG6yg%3D%3D))
-- 📧 Email: yourname@example.com
+- 📧 Email:  mennamohamed00000011@gmail.com
 
 ---
 
