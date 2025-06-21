@@ -85,7 +85,7 @@
 
 ### ⚡ Recent GitHub Activity
 
-![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=mennazezo5&theme=tokyo-night)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=mennazezo5&theme=tokyo-night)
 
 ---
 
