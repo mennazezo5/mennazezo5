@@ -8,7 +8,8 @@
 
 ### 🚀 About Me
 
-- 👩‍🎓 I'm a student with strong foundations in **Software Engineering**, **Math**, and **Statistics**
+- 👩‍🎓 I'm a 3rd year student at **Faculty of Computers & Artificial Intelligence, Helwan University – AI Department**
+- 🎯 Strong foundations in **Software Engineering**, **Math**, and **Statistics**
 - 💻 Skilled in multiple programming languages:  
   **Python, C, C++, Java, C#, PHP, HTML, CSS, JavaScript, SQL/MySQL**
 - 🧠 Currently studying **Artificial Intelligence & Data Science**
