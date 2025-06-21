@@ -63,10 +63,25 @@
 
 ---
 
+...
 ### 📫 Connect With Me
 
 - 🔗 [LinkedIn](https://www.linkedin.com/in/menna-mohamed-0808422ab/)
 - 📧 Email: mennamohamed00000011@gmail.com
+
+---
+
+### 📊 GitHub Stats
+
+![Menna's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mennazezo5&show_icons=true&theme=tokyonight&count_private=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mennazezo5&layout=compact&theme=tokyonight)
+
+---
+
+### ⚡ Recent GitHub Activity
+
+![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=mennazezo5&theme=tokyo-night)
 
 ---
 
