@@ -1,4 +1,4 @@
-<h1 align="center">Hey there 👋, I'm Menna </h1>
+<h1 align="center">Hey there 👋, I'm Menna</h1>
 
 <p align="center">
   💻 Software Engineering Enthusiast | 🧠 AI & Data Science Learner | 💡 Creative Problem Solver
@@ -10,8 +10,13 @@
 
 - 👩‍🎓 I'm a student with strong foundations in **Software Engineering**, **Math**, and **Statistics**
 - 💻 Skilled in multiple programming languages:  
-  **Python, C, C++, Java, PHP, HTML, CSS, JavaScript, SQL/MySQL**
+  **Python, C, C++, Java, C#, PHP, HTML, CSS, JavaScript, SQL/MySQL**
 - 🧠 Currently studying **Artificial Intelligence & Data Science**
+- 📊 Experienced in:
+  - **Database Design & Management**
+  - **System Analysis & Design (UML, ERD, Use Case Diagrams)**
+  - **Algorithms & Problem Solving**
+  - **Web Development & Object-Oriented Programming**
 - 🌐 Have some experience in **Computer Networks** and building **Diagrams** for system design
 - 🛠️ I love solving problems and building practical projects with real impact
 
@@ -22,12 +27,14 @@
 ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
 ![C](https://img.shields.io/badge/-C-333333?style=flat&logo=c)
 ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=cpp)
+![C#](https://img.shields.io/badge/-CSharp-333333?style=flat&logo=csharp)
 ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=java)
 ![PHP](https://img.shields.io/badge/-PHP-333333?style=flat&logo=php)
 ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=html5)
 ![CSS3](https://img.shields.io/badge/-CSS3-333333?style=flat&logo=css3)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
 ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
+![Visual Studio](https://img.shields.io/badge/-VisualStudio-333333?style=flat&logo=visual-studio)
 ![VS Code](https://img.shields.io/badge/-VSCode-333333?style=flat&logo=visual-studio-code)
 ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
 
@@ -49,15 +56,17 @@
 
 - 🤖 Artificial Intelligence & Machine Learning
 - 📊 Data Science with Python
+- 🔎 Advanced Algorithms & Data Structures
 - 🧪 System Design, UML, and Software Architecture
+- 💡 Problem Solving and Logic Thinking
 - 🕸️ Web development and backend logic
 
 ---
 
 ### 📫 Connect With Me
 
-- 🔗 [LinkedIn]([https://linkedin.com/in/your-link](https://www.linkedin.com/in/menna-mohamed-0808422ab/overlay/about-this-profile/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BKnTwnpTSQ%2Bqjse53FwG6yg%3D%3D))
-- 📧 Email:  mennamohamed00000011@gmail.com
+- 🔗 [LinkedIn](https://www.linkedin.com/in/menna-mohamed-0808422ab/)
+- 📧 Email: mennamohamed00000011@gmail.com
 
 ---
 
