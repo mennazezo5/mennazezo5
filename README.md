@@ -42,11 +42,15 @@
 
 ### 📌 Projects I've Worked On
 
+### 📌 Projects I've Worked On
+
 - 🎮 **[TIC-TAC-TOY](https://github.com/mennazezo5/TIC-TAC-TOY)** — Classic game built in C++
 - 🗃️ **[File Organizing Tool](https://github.com/mennazezo5/file-organizing)** — CLI tool to organize files by type using C++
 - 🔐 **[File Encryption & Decryption App](https://github.com/mennazezo5/File-Encryption-and-Decryption-App)** — Secure file handler in C++
 - 📦 **[Repositories Loading Tool](https://github.com/mennazezo5/RepositoriesLoading)** — Project automation with useful scripts
 - 📊 **[AI/DS Course Notes & Labs](https://github.com/mennazezo5/AI-DS-COURSE)** — My AI & Data Science learning journey
+- 🍽️ **[Restaurant Management System](https://github.com/mennazezo5/-Restaurant-Management-System)** — Java-based desktop application to manage restaurant orders, menus, and billing
+
 
 > You can check all my repositories for more exciting projects!
 
