@@ -1,16 +1,66 @@
-## Hi there 👋
+<h1 align="center">Hey there 👋, I'm Menna </h1>
 
-<!--
-**mennazezo5/mennazezo5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  💻 Software Engineering Enthusiast | 🧠 AI & Data Science Learner | 💡 Creative Problem Solver
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 About Me
+
+- 👩‍🎓 I'm a student with strong foundations in **Software Engineering**, **Math**, and **Statistics**
+- 💻 Skilled in multiple programming languages:  
+  **Python, C, C++, Java, PHP, HTML, CSS, JavaScript, SQL/MySQL**
+- 🧠 Currently studying **Artificial Intelligence & Data Science**
+- 🌐 Have some experience in **Computer Networks** and building **Diagrams** for system design
+- 🛠️ I love solving problems and building practical projects with real impact
+
+---
+
+### 🔧 Technologies & Tools
+
+![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
+![C](https://img.shields.io/badge/-C-333333?style=flat&logo=c)
+![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=cpp)
+![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=java)
+![PHP](https://img.shields.io/badge/-PHP-333333?style=flat&logo=php)
+![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=html5)
+![CSS3](https://img.shields.io/badge/-CSS3-333333?style=flat&logo=css3)
+![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
+![VS Code](https://img.shields.io/badge/-VSCode-333333?style=flat&logo=visual-studio-code)
+![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
+
+---
+
+### 📌 Projects I've Worked On
+
+- 🎮 **[TIC-TAC-TOY](https://github.com/mennazezo5/TIC-TAC-TOY)** — Classic game built in C++
+- 🗃️ **[File Organizing Tool](https://github.com/mennazezo5/file-organizing)** — CLI tool to organize files by type using C++
+- 🔐 **[File Encryption & Decryption App](https://github.com/mennazezo5/File-Encryption-and-Decryption-App)** — Secure file handler in C++
+- 📦 **[Repositories Loading Tool](https://github.com/mennazezo5/RepositoriesLoading)** — Project automation with useful scripts
+- 📊 **[AI/DS Course Notes & Labs](https://github.com/mennazezo5/AI-DS-COURSE)** — My AI & Data Science learning journey
+
+> You can check all my repositories for more exciting projects!
+
+---
+
+### 📚 What I'm Learning Now
+
+- 🤖 Artificial Intelligence & Machine Learning
+- 📊 Data Science with Python
+- 🧪 System Design, UML, and Software Architecture
+- 🕸️ Web development and backend logic
+
+---
+
+### 📫 Connect With Me
+
+- 🔗 [LinkedIn]([https://linkedin.com/in/your-link](https://www.linkedin.com/in/menna-mohamed-0808422ab/overlay/about-this-profile/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BKnTwnpTSQ%2Bqjse53FwG6yg%3D%3D))
+- 📧 Email: yourname@example.com
+
+---
+
+<p align="center">
+  🚀 Passionate about building, solving, and constantly learning. Let's connect!
+</p>
