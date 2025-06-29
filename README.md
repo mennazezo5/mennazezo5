@@ -74,6 +74,9 @@
 
 ---
 
+### ⚡ Recent GitHub Activity
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=mennazezo5&theme=tokyo-night)
 <p align="center">
   🚀 Passionate about software testing, automation, and building reliable systems. Let's connect!
 </p>
