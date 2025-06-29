@@ -1,150 +1,92 @@
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-% Deedy - One Page Two Column Resume
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+<h1 align="center">Hey there 👋, I'm Menna</h1>
 
-\documentclass[]{deedy-resume-openfont}
+<p align="center">
+  💻 Software Engineering Enthusiast | 🧠 AI & Data Science Learner | 💡 Creative Problem Solver
+</p>
 
-\begin{document}
+---
 
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-%     LAST UPDATED DATE
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-\lastupdated
+### 🚀 About Me
 
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-%     TITLE NAME
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-\namesection{Menna}{Mohamed}{ 
-\urlstyle{same}\url{https://www.linkedin.com/in/menna-mohamed-ai} \\
-\href{mailto:mennamohamed00000011@gmail.com}{mennamohamed00000011@gmail.com} | (+20) 112-432-9770
-}
+- 👩‍🎓 I'm a 3rd year student at **Faculty of Computers & Artificial Intelligence, Helwan University – AI Department**
+- 🎯 Strong foundations in **Software Engineering**, **Math**, and **Statistics**
+- 💻 Skilled in multiple programming languages:  
+  **Python, C, C++, Java, C#, PHP, HTML, CSS, JavaScript, SQL/MySQL**
+- 🧠 Currently studying **Artificial Intelligence & Data Science**
+- 📊 Experienced in:
+  - **Database Design & Management**
+  - **System Analysis & Design (UML, ERD, Use Case Diagrams)**
+  - **Algorithms & Problem Solving**
+  - **Web Development & Object-Oriented Programming**
+- 🌐 Have some experience in **Computer Networks** and building **Diagrams** for system design
+- 🛠️ I love solving problems and building practical projects with real impact
 
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-%     COLUMN ONE
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-\begin{minipage}[t]{0.33\textwidth} 
+---
 
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-%     EDUCATION
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-\section{Education} 
+### 🔧 Technologies & Tools
 
-\subsection{Helwan University}
-\descript{B.Sc. in Computer Science}
-\location{2023 -- 2027 (Expected)}
-\small{Gained strong foundation across software engineering, algorithms, databases, networks, system analysis, and introductory AI concepts.}
+![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
+![C](https://img.shields.io/badge/-C-333333?style=flat&logo=c)
+![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=cpp)
+![C#](https://img.shields.io/badge/-CSharp-333333?style=flat&logo=csharp)
+![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=java)
+![PHP](https://img.shields.io/badge/-PHP-333333?style=flat&logo=php)
+![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=html5)
+![CSS3](https://img.shields.io/badge/-CSS3-333333?style=flat&logo=css3)
+![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
+![Visual Studio](https://img.shields.io/badge/-VisualStudio-333333?style=flat&logo=visual-studio)
+![VS Code](https://img.shields.io/badge/-VSCode-333333?style=flat&logo=visual-studio-code)
+![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
 
-\sectionsep
+---
 
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-%     SKILLS
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-\section{Skills}
-\subsection{Testing}
-Manual Testing \\
-Test Case Design \\
-Bug Reporting
+### 📌 Projects I've Worked On
 
-\subsection{Automation}
-JavaScript \\
-Python \\
-Selenium \\
-Pytest
+- 🎮 **[TIC-TAC-TOY](https://github.com/mennazezo5/TIC-TAC-TOY)** — Classic game built in C++
+- 🗃️ **[File Organizing Tool](https://github.com/mennazezo5/file-organizing)** — CLI tool to organize files by type using C++
+- 🔐 **[File Encryption & Decryption App](https://github.com/mennazezo5/File-Encryption-and-Decryption-App)** — Secure file handler in C++
+- 📦 **[Repositories Loading Tool](https://github.com/mennazezo5/RepositoriesLoading)** — Project automation with useful scripts
+- 📊 **[AI/DS Course Notes & Labs](https://github.com/mennazezo5/AI-DS-COURSE)** — My AI & Data Science learning journey
+- 🍽️ **[Restaurant Management System](https://github.com/mennazezo5/-Restaurant-Management-System)** — Java-based desktop application to manage restaurant orders, menus, and billing
 
-\subsection{Other}
-SQL Basics \\
-Git/GitHub
 
-\sectionsep
+> You can check all my repositories for more exciting projects!
 
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-%     CERTIFICATIONS
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-\section{Certifications}
-ISTQB Foundation Level (in progress) \\
-Software Testing Fundamentals – Coursera \\
-Selenium WebDriver with Python – Udemy
+---
 
-\sectionsep
+### 📚 What I'm Learning Now
 
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-%     LINKS
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-\section{Links}
-LinkedIn:// \href{https://www.linkedin.com/in/menna-mohamed-ai}{\custombold{menna-mohamed-ai}} \\
-GitHub:// \href{https://github.com/mennazezo5}{\custombold{mennazezo5}}
+- 🤖 Artificial Intelligence & Machine Learning
+- 📊 Data Science with Python
+- 🔎 Advanced Algorithms & Data Structures
+- 🧪 System Design, UML, and Software Architecture
+- 💡 Problem Solving and Logic Thinking
+- 🕸️ Web development and backend logic
 
-\sectionsep
+---
 
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-%     LANGUAGES
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-\section{Languages}
-Arabic – Native \\
-English – Very Good
+### 📫 Connect With Me
 
-\sectionsep
+- 🔗 [LinkedIn](https://www.linkedin.com/in/menna-mohamed-0808422ab/)
+- 📧 Email: mennamohamed00000011@gmail.com
 
-\end{minipage}
-\hfill
-\begin{minipage}[t]{0.66\textwidth} 
+---
 
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-%     SUMMARY
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-\section{Summary}
-I am a Computer Science student with a strong interest in Software Testing and Quality Assurance. Alongside my core CS studies, I have been exposed to Artificial Intelligence concepts through academic coursework, which has enriched my analytical thinking and problem-solving skills. I am actively studying Software Testing principles, including manual and automation testing using JavaScript, Python, and Selenium, with plans to further expand into Java-based frameworks. I am passionate about improving software quality and continuously learning new tools and practices.
+### 📊 GitHub Stats
 
-\sectionsep
+![Menna's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mennazezo5&show_icons=true&theme=tokyonight&count_private=true)
 
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-%     PROJECTS
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-\section{Projects}
-\runsubsection{Web Automation Testing Scripts}
-\descript{| In Progress}
-\location{2025}
-\begin{tightemize}
-\item Developing Selenium scripts using JavaScript to automate user workflows in a sample web application.
-\item Validating form submissions and data integrity.
-\end{tightemize}
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mennazezo5&layout=compact&theme=tokyonight)
 
-\runsubsection{Cross-Browser Testing Suite}
-\descript{| Planned}
-\location{Expected Q3 2025}
-\begin{tightemize}
-\item Building a cross-browser automation suite using Selenium with Python and Java.
-\item Aiming to cover regression and smoke tests for multiple environments.
-\end{tightemize}
+---
 
-\runsubsection{Manual Testing Practice}
-\descript{| Personal Learning}
-\location{2024}
-\begin{tightemize}
-\item Designed manual test cases for login and registration features.
-\item Reported sample defects in structured formats.
-\end{tightemize}
+### ⚡ Recent GitHub Activity
 
-\sectionsep
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=mennazezo5&theme=tokyo-night)
 
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-%     ACADEMIC BACKGROUND
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-\section{Academic Background}
-Completed diverse coursework covering programming, system analysis, software engineering, databases, algorithms, networking, and introductory AI concepts, providing a broad understanding of IT and data-driven technologies that support effective testing practices.
+---
 
-\sectionsep
-
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-%     INTERESTS
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-\section{Interests}
-Quality Assurance \\
-Test Automation \\
-Continuous Learning
-
-\sectionsep
-
-\end{minipage}
-
-\end{document}
+<p align="center">
+  🚀 Passionate about building, solving, and constantly learning. Let's connect!
+</p>
